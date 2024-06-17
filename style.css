@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    padding: 20px;
+    font-size: 2.5rem;
+    font-style: italic;
+}
+body{
+    background-color: azure;
+    text-align: center;
+}
+.container{
+    margin: auto;
+    width: 500px;
+    height: 400px;
+    position: relative;
+
+}
+button{
+    color: whitesmoke;
+    background-color: rgb(43, 134, 226);
+    font-size: 1.1rem;
+    padding:12.5px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+}
+label{
+    font-weight: bold;
+    margin-right: 10px;
+}
+button:hover{
+    background-color: rgb(17, 42, 59);
+}
+input{
+    width: 200px;
+    padding: 11px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+#result{
+    margin: 20px;
+font-weight: bold;
+font-size: 1.1em;
+
+}
+
+#images img{
+    margin: 20px;
+    width: 150px;
+    height: auto;
+   
+}
